@@ -1,4 +1,4 @@
-package br.dev.webit.java.lang;
+package br.dev.webit.jdk;
 
 public class JavaLang {
 
